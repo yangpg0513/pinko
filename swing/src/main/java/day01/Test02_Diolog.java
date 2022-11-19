@@ -34,6 +34,7 @@ public class Test02_Diolog extends JFrame {                            //创建�
         // 实例化MyJDialog类对象
         new Test02_Diolog();
         System.out.println("hello");
+        System.out.println("world");
     }
 }
 
