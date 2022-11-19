@@ -1,0 +1,2 @@
+SELECT * FROM a
+INSERT OVERWRITE TABLE biads.ads_test
