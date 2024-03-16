@@ -1,4 +1,0 @@
-alice jogging,Coding,cooking
-lina travel,dance
-tom shopping,working
-jack basketball,swimming
